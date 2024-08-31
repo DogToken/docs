@@ -5,7 +5,7 @@
 ---
 
 ::: tip
-DogSwap uses an algorithm to determine reward weights. Read more about it [here](/products/amm-exchange/farm-allocation-algorithm).
+DogSwap will use Governance to decide the best practices.
 :::
 
 

@@ -2,7 +2,7 @@
 
 ---
 
-- 100 new BONE is created per block for tokens that are staked in the pools on <https://dogswap.xyz/pools>.
+- 0.001 new BONE is created per block for tokens that are staked in the pools on <https://dogswap.xyz/pools>.
 
 #### What is the cap of the $BONE token?
 
