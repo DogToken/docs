@@ -11,8 +11,8 @@ ___
 | migrator | Bytes | migrator address |
 | owner | Bytes | owner address |
 | startBlock | BigInt | start block |
-| sushi | Bytes | sushi token address |
-| sushiPerBlock | BigInt | sushi per block |
+| bone | Bytes | bone token address |
+| bonePerBlock | BigInt | bone per block |
 | totalAllocPoint | BigInt | total allocation point |
 | pools | [Pools] | array of pools |
 | poolCount | BigInt | pool count |
@@ -34,8 +34,8 @@ ___
 | migrator | Bytes | migrator address |
 | owner | Bytes | owner address |
 | startBlock | BigInt | start block |
-| sushi | Bytes | sushi token address |
-| sushiPerBlock | BigInt | sushi per block |
+| bone | Bytes | bone token address |
+| bonePerBlock | BigInt | bone per block |
 | totalAllocPoint | BigInt | total allocation point |
 | pools | [Pools] | array of pools |
 | poolCount | BigInt | pool count |
@@ -56,7 +56,7 @@ ___
 | pair | Bytes | pair address |
 | allocPoint | BigInt | allocation point |
 | lastRewardBlock | BigInt | last reward block |
-| accSushiPerShare | BigInt | accumulated sushi per share |
+| accBonePerShare | BigInt | accumulated bone per share |
 | users | [User] | array of users |
 | userCount | BigInt | user count |
 | slpBalance | BigDecimal | slp balance |
@@ -64,8 +64,8 @@ ___
 | slpAgeRemoved | BigDecimal | slp age removed |
 | slpDeposited | BigDecimal | slp deposited |
 | slpWithdrawn | BigDecimal | slp withdrawn |
-| sushiHarvested | BigDecimal | sushi harvested |
-| sushiHarvestedUSD | BigDecimal | sushi harvested usd |
+| boneHarvested | BigDecimal | bone harvested |
+| boneHarvestedUSD | BigDecimal | bone harvested usd |
 | entryUSD | BigDecimal | all-time entries in USD |
 | exitUSD | BigDecimal | all-time exits in USD |
 | timestamp | BigInt | timestamp |
@@ -86,8 +86,8 @@ ___
 | slpAgeRemoved | BigDecimal | slp age removed |
 | slpDeposited | BigDecimal | slp deposited |
 | slpWithdrawn | BigDecimal | slp withdrawn |
-| sushiHarvested | BigDecimal | sushi harvested |
-| sushiHarvestedUSD | BigDecimal | sushi harvested usd |
+| boneHarvested | BigDecimal | bone harvested |
+| boneHarvestedUSD | BigDecimal | bone harvested usd |
 | entryUSD | BigDecimal | all-time entries in usd |
 | exitUSD | BigDecimal | all-time exits in usd |
 | timestamp | BigInt | timestamp |
@@ -104,9 +104,9 @@ ___
 | rewardDebt | BigInt | reward debt |
 | entryUSD | BigDecimal | all-time entries in usd |
 | exitUSD | BigDecimal | all-time exits in usd |
-| sushiHarvested | BigDecimal | sushi harvested |
-| sushiHarvestedUSD | BigDecimal | sushi harvested usd |
-| sushiHarvestedSinceLockup | BigDecimal | sushi harvested since lockup |
-| sushiHarvestedSinceLockupUSD | BigDecimal | sushi harvested since lockup usd |
+| boneHarvested | BigDecimal | bone harvested |
+| boneHarvestedUSD | BigDecimal | bone harvested usd |
+| boneHarvestedSinceLockup | BigDecimal | bone harvested since lockup |
+| boneHarvestedSinceLockupUSD | BigDecimal | bone harvested since lockup usd |
 | timestamp | BigInt | timestamp |
 | block | BigInt | block |

@@ -23,7 +23,3 @@
 ## To add to Token List
 
 Join the `#listing-requests` channel in [Discord](https://discord.gg/RSQZDGThfU) and discuss with admins there. Please be prepared to provide all information about your project.
-
-## To become a Farmable Token
-
-Please read [Farm Allocation Algorithm](/products/amm-exchange/farm-allocation-algorithm/) section - our farm listings are automated.

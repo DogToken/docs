@@ -44,7 +44,7 @@ OPTIONS:
 
 People will be able to respond to your proposal request and give feedback. This can help you to improve your proposal, so don't worry if initial reaction is negative. You can incorporate feedback and try again.
 
-### Create Pull Request on xmist-governance
+### Create Pull Request on bone-governance
 
 Once a proposal has been discussed sufficiently to where you think it makes sense to open it to a vote, you can make a PR at the [bone-governance](https://github.com/dogtoken/bone-governance) repository. If you need assistance making a PR, do not hesitate to ask in the `#governance` group - a member of the DogSwap team can assist.
 
