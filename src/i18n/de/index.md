@@ -23,12 +23,12 @@ footerWrap:
     link: https://t.me/DogSwapOfficial
     details: Join the community!
   - title: Twitter
-    link: https://twitter.com/mistswapdex
+    link: https://twitter.com/dogswapdefi
     details: Keep up to date!
 - headline: Source Code
   items:
   - title: GitHub
-    link: https://github.com/mistswapdex
+    link: https://github.com/dogtoken
     details: Build the future!
 
 ---

@@ -66,7 +66,7 @@ module.exports = {
    */
   themeConfig: {
     logo: '/assets/img/logo.png',
-    repo: 'https://github.com/mistswapdex',
+    repo: 'https://github.com/dogtoken',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
@@ -113,32 +113,6 @@ module.exports = {
               ['/products/amm-exchange/', 'Overview'],
               ['/products/amm-exchange/liquidity-pools/', 'Liquidity Pools'],
               ['/products/amm-exchange/yield-farming/', 'Yield Farming'],
-              ['/products/amm-exchange/the-mistbar/', 'MistBar'],
-              ['/products/amm-exchange/farm-allocation-algorithm/', 'Farm Allocation Algorithm'],
-            ],
-          },
-          {
-            title: 'Bridge',
-            children: [
-              ['/products/bridge/', 'Overview'],
-            ],
-          },
-          {
-            title: 'MistyLake',
-            children: [
-              ['/products/mistylake/', 'Overview'],
-            ],
-          },
-          {
-            title: 'Smart Safe',
-            children: [
-              ['/products/smartsafe/', 'Overview'],
-            ],
-          },
-          {
-            title: 'Sonar',
-            children: [
-              ['/products/sonar/', 'Overview'],
             ],
           },
         ],
