@@ -10,8 +10,8 @@
   },
   "repository": "/docs",
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "dev": "vuepress --openssl-legacy-provider dev src",
+    "build": "vuepress --openssl-legacy-provider build src"
   },
   "license": "MIT",
   "devDependencies": {
