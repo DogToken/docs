@@ -2,11 +2,11 @@
 
 ---
 
-## MistSwap Exchange
+## DogSwap Exchange
 
-<https://app.mistswap.fi/swap>
+<https://dogswap.xyz/swap>
 
-The main product of MistSwap. This is where you can exchange and invest tokens.
+The main product of DogSwap. This is where you can exchange and invest tokens.
 
 [Read more about the exchange](/products/amm-exchange/)
 
@@ -14,7 +14,7 @@ The main product of MistSwap. This is where you can exchange and invest tokens.
 
 ## MistBar
 
-<https://app.mistswap.fi/stake>
+<https://dogswap.xyz/stake>
 
 Earn extra yield with MistBar. This is where you can stake MIST for xMIST.
 

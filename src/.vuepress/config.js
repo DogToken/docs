@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'MistSwap Docs',
+  title: 'DogSwap Docs',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -82,7 +82,7 @@ module.exports = {
       },
       {
         text: 'Exchange',
-        link: 'https://app.mistswap.fi'
+        link: 'https://dogswap.xyz'
       },
     ],
     sidebar: [
@@ -108,7 +108,7 @@ module.exports = {
         children: [
           ['/products/', 'Overview'], 
           {
-            title: 'MistSwap',
+            title: 'DogSwap',
             children: [
               ['/products/amm-exchange/', 'Overview'],
               ['/products/amm-exchange/liquidity-pools/', 'Liquidity Pools'],
@@ -211,18 +211,18 @@ module.exports = {
   //   // As a special case, the default locale can use '/' as its path.
   //   '/': {
   //     lang: 'English', // this will be set as the lang attribute on <html>
-  //     title: 'MistSwap Docs',
+  //     title: 'DogSwap Docs',
   //     description: description
   //   },
   //   '/i18n/de/': {
   //     lang: 'Deutsch',
-  //     title: 'MistSwap Doku',
-  //     description: 'MistSwap Dokumentation'
+  //     title: 'DogSwap Doku',
+  //     description: 'DogSwap Dokumentation'
   //   },
   //   '/i18n/zh/': {
   //     lang: '简体中文',
-  //     title: 'MistSwap 文档',
-  //     description: 'MistSwap 文档'
+  //     title: 'DogSwap 文档',
+  //     description: 'DogSwap 文档'
   //   },
   // }
 }

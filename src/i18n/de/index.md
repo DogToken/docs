@@ -20,7 +20,7 @@ footerWrap:
     link: https://discord.gg/xFTnQEzu9T
     details: Join the community!
   - title: Telegram
-    link: https://t.me/MistSwapOfficial
+    link: https://t.me/DogSwapOfficial
     details: Join the community!
   - title: Twitter
     link: https://twitter.com/mistswapdex
@@ -43,7 +43,7 @@ footerWrap:
 
 ...
 
-Mist is a smartBCH exchange, and a suite of tools to help empower the individual. Our main product is MistSwap, the exchange, which is based on the popular SushiSwap exchange. 
+Mist is a smartBCH exchange, and a suite of tools to help empower the individual. Our main product is DogSwap, the exchange, which is based on the popular SushiSwap exchange. 
 
 The following documentation details the functional and technical aspects of the ecosystem products.
 
@@ -51,10 +51,10 @@ In order to partake in the Mist ecosystem, please join our discord <https://disc
 
 To interact with our products, please explore the links below:
 
-MistSwap Exchange: <https://app.mistswap.fi/swap>
+DogSwap Exchange: <https://dogswap.xyz/swap>
 
-Mist Yield Farms: <https://app.mistswap.fi/farm>
+Mist Yield Farms: <https://dogswap.xyz/farm>
 
-MistBar Staking (xMIST): <https://app.mistswap.fi/stake>
+MistBar Staking (xMIST): <https://dogswap.xyz/stake>
 
 Misty Lake: <https://lake.mistswap.fi>

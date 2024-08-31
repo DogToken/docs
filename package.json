@@ -1,11 +1,11 @@
 {
-  "name": "@mistswapdex/docs",
+  "name": "@dogswap/docs",
   "private": true,
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "authors": {
-    "name": "",
+    "name": "doggo",
     "email": ""
   },
   "repository": "/docs",

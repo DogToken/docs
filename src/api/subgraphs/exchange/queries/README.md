@@ -2,18 +2,18 @@
 
 This page provides various query examples.
 
-You can test any of the queries, or write your own, on the [MistSwap Subgraph Explorer](https://thegraph.mistswap.fi/subgraphs/name/mistswap/exchange/graphql?query=%7B%0A%20%20pairs%20(orderBy%3AreserveUSD%2C%20orderDirection%3Adesc)%20%7B%0A%20%20%20%20id%0A%20%20%20%20token0%20%7B%0A%20%20%20%20%20%20id%0A%20%20%20%20%7D%0A%20%20%20%20token1%20%7B%0A%20%20%20%20%20%20id%0A%20%20%20%20%7D%0A%20%20%20%20token0Price%0A%20%20%20%20token1Price%0A%20%20%20%20volumeUSD%0A%20%20%20%20untrackedVolumeUSD%0A%20%20%20%20reserve0%0A%20%20%20%20reserve1%0A%20%20%20%20reserveUSD%0A%20%20%20%20reserveETH%0A%20%20%20%20trackedReserveETH%0A%20%20%7D%0A%7D).
+You can test any of the queries, or write your own, on the [DogSwap Subgraph Explorer](https://thegraph.dogswap.xyz/subgraphs/name/mistswap/exchange/graphql?query=%7B%0A%20%20pairs%20(orderBy%3AreserveUSD%2C%20orderDirection%3Adesc)%20%7B%0A%20%20%20%20id%0A%20%20%20%20token0%20%7B%0A%20%20%20%20%20%20id%0A%20%20%20%20%7D%0A%20%20%20%20token1%20%7B%0A%20%20%20%20%20%20id%0A%20%20%20%20%7D%0A%20%20%20%20token0Price%0A%20%20%20%20token1Price%0A%20%20%20%20volumeUSD%0A%20%20%20%20untrackedVolumeUSD%0A%20%20%20%20reserve0%0A%20%20%20%20reserve1%0A%20%20%20%20reserveUSD%0A%20%20%20%20reserveETH%0A%20%20%20%20trackedReserveETH%0A%20%20%7D%0A%7D).
 
 ## Factory
 
 ### All-time liquidity, volume, and transactions
 
-This query gets a factory by its id \(factory address\), which in this case is the MistSwap Factory contract address.
+This query gets a factory by its id \(factory address\), which in this case is the DogSwap Factory contract address.
 
 ```graphql
 {
  factory(
-  id: "0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac"
+  id: "0x86818c666b90f6f4706560afc72c2c2fa7b9c74a"
  ) {
   volumeUSD
   liquidityUSD

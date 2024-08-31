@@ -11,6 +11,6 @@ MistyLake is a one-way bridge to convert **MIST** and **DROP** SLP tokens to MIS
 
 ### Why?
 
-MistSwap is created by MIST's creator, Kasumi. As MIST is generated every block on smartBCH like on BCH, it makes sense to provide an easy way to bridge SLP -> smartBCH. This may drive additional trading of MIST on SLP as well.
+DogSwap is created by MIST's creator, Kasumi. As MIST is generated every block on smartBCH like on BCH, it makes sense to provide an easy way to bridge SLP -> smartBCH. This may drive additional trading of MIST on SLP as well.
 
 DROP is supported as detoken.net was always envisioned to be a SLP exchange. We would like to provide a chance for these tokens to not go to waste, and for DROP holders to become part of the MIST ecosystem.

@@ -63,7 +63,7 @@ Pair entity data.
 
 ### User
 
-A user entity is created for any unknown address that provides liquidity to a pool on MistSwap. It can be used to track active liquidity positions and all-time value in USD of swaps performed by the user.
+A user entity is created for any unknown address that provides liquidity to a pool on DogSwap. It can be used to track active liquidity positions and all-time value in USD of swaps performed by the user.
 
 | Field | Type | Description |
 | :--- | :--- | :--- |

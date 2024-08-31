@@ -2,24 +2,10 @@
 
 ---
 
-## MistSwap
+## DogSwap
 
 ### Timelock
 
-MasterChef is controlled by a 3-day Timelock, delaying all admin actions
-
-[Timelock](https://github.com/mistswapdex/mistswap/blob/master/deployments/smartbch/Timelock.json)
-
 ### Audits
 
-### 0xGuard
-
-The core contracts are minimally changed from SushiSwap, 0xGuard has audited and verified this.
-
-[0xGuard Audit](/MistSwap-0xguard-audit.pdf)
-
-### Certik
-
-Certik performed a thorough examination of the MistSwap codebase
-
-[Certik Audit](/MistSwap-certik-audit.pdf)
+### Todo

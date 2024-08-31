@@ -8,13 +8,13 @@
 
 ## Hype Banner
 
-The hype banner may be used for headers for articles about MistSwap.
+The hype banner may be used for headers for articles about DogSwap.
 
 ![icon](https://raw.githubusercontent.com/mistswapdex/art/master/header/Header.png)
 
 ## MIST Icons
 
-This is MistSwap's official logo and should be used in most cases.
+This is DogSwap's official logo and should be used in most cases.
 
 All files including `.ai` can be found at the repository.
 
