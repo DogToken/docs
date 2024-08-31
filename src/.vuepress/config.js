@@ -126,22 +126,10 @@ module.exports = {
             title: 'Subgraphs',
             children: [
               {
-                title: 'Marker',
-                children: [
-                  ['/api/subgraphs/marker/entities/', 'Entities'], 
-                ]
-              },
-              {
                 title: 'Exchange',
                 children: [
                   ['/api/subgraphs/exchange/entities/', 'Entities'], 
                   ['/api/subgraphs/exchange/queries/', 'Queries'], 
-                ]
-              },
-              {
-                title: 'MistBar',
-                children: [
-                  ['/api/subgraphs/mistBar/entities/', 'Entities'], 
                 ]
               },
               {
