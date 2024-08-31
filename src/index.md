@@ -49,6 +49,6 @@ To interact with our products, please explore the links below:
 
 DogSwap Exchange: <https://dogswap.xyz/swap>
 
-Mist Yield Farms: <https://dogswap.xyz/pools>
+BONE Yield Pools: <https://dogswap.xyz/pools>
 
-MistBar Staking (xMIST): <https://dogswap.xyz/stake>
+Staking (BONE): <https://dogswap.xyz/stake>
