@@ -43,12 +43,12 @@ DogSwap is an exchange, and a suite of tools to help empower the individual. Our
 
 The following documentation details the functional and technical aspects of the ecosystem products.
 
-In order to partake in the Mist ecosystem, please join our discord <https://discord.gg/RSQZDGThfU>.
+In order to partake in the BONE ecosystem, please join our discord <https://discord.gg/RSQZDGThfU>.
 
 To interact with our products, please explore the links below:
 
 DogSwap Exchange: <https://dogswap.xyz/swap>
 
-BONE Yield Pools: <https://dogswap.xyz/pools>
+BONE Yield Pools: <https://dogswap.xyz/bonepools>
 
 Staking (BONE): <https://dogswap.xyz/stake>
